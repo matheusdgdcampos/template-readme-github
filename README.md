@@ -16,6 +16,8 @@
 <image src="https://img.shields.io/badge/Custom-shields%20here-red"/>
 </p>
 
+Click [here](https://shields.io/) and select shields for you project
+
 ## Apresentation of Project :sparkles:
 
 <p align="center">
@@ -43,7 +45,7 @@ Brief description of project.
 
 ## License :scroll:
 
-> This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
+> This project is under the MIT license. See the archive [LICENSE](LICENSE) for more details.
 
 ---
 

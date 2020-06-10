@@ -13,8 +13,10 @@
 </p>
 
 <p align="center">
-<image src="https://img.shields.io/badge/Custom-shields%20here-red"/>
+<image src="https://img.shields.io/badge/Shields-customizados-red"/>
 </p>
+
+Clique [aqui](https://shields.io/) e selecione escudos para o seu projeto.
 
 ## Apresentação do Projeto :sparkles:
 
@@ -41,7 +43,7 @@ Breve descrição sobre o projeto.
 
 ## Licença :scroll:
 
-> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
