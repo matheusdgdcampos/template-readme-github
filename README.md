@@ -47,4 +47,4 @@ Brief description of project.
 
 ---
 
-##### Make for 'Your name'(nickname) :wave:
+##### Made by 'Your name'(nickname) :wave:
