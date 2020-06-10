@@ -1,7 +1,7 @@
 <h1>Project Title</h1>
 
 <p align="center">
-<image src=".github/img/logo.jpg"/></br>
+<image src=".github/logo.jpg"/></br>
 <label>Logo</label>
 </p>
 
@@ -21,7 +21,7 @@ Click [here](https://shields.io/) and select shields for you project
 ## Apresentation of Project :sparkles:
 
 <p align="center">
-<image src=".github/img/image-example.png" />
+<image src=".github/image-example.png" />
 </p>
 
 ---
