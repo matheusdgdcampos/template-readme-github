@@ -39,9 +39,9 @@ Brief description of project.
 ## How to Contribute 🤔
 
 - Fork this repository;
-- Create a branch with your feature: `git checkout -b minha-feature`;
-- Commit your changes: `git commit -m 'feat: Minha nova feature'`;
-- Push to your branch: `git push origin minha-feature`.
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: my new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
 ## License :scroll:
 
